@@ -1,0 +1,9 @@
+Programming Experience & Projects
+Built 200+ responsive web projects using HTML, CSS, and JavaScript, including interactive applications, UI components, and web games.
+Solved 2+ algorithm challenges on LeetCode focusing on data structures, problem-solving, and coding efficiency.
+Developed multiple GitHub-hosted projects demonstrating front-end development, API integration, and clean code structure.
+
+Technical Skills
+Languages: JavaScript, HTML, CSS, PHP, MySQL, Python, React.js, Node.js
+Tools: Git, GitHub, VS Code
+Core Concepts: Data Structures & Algorithms, DOM Manipulation, REST APIs, Responsive Design
